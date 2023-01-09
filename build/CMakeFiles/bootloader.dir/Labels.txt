@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/root/esp/repeater/build/CMakeFiles/bootloader
+/root/esp/repeater/build/CMakeFiles/bootloader.rule
+/root/esp/repeater/build/CMakeFiles/bootloader-complete.rule
+/root/esp/repeater/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/root/esp/repeater/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/root/esp/repeater/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/root/esp/repeater/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+/root/esp/repeater/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/root/esp/repeater/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/root/esp/repeater/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
